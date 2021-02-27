@@ -2,4 +2,4 @@
 
 const server = require('./src/server.js');
 
-server.star(3000);
+server.start(3000);
